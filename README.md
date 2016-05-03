@@ -1,1 +1,1 @@
-"# aurelia-devexpress-bridge" 
+# aurelia-devexpress-bridge
